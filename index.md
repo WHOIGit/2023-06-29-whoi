@@ -112,6 +112,8 @@ workshop is only open to people from a particular institution.
 {% endcomment %}
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
+The course is aimed at students, postdocs, and staff at the Woods Hole Oceanographic Institution.
+
 {% elsif site.carpentry == "dc" %}
 {% include dc/who.html %}
 {% elsif site.carpentry == "lc" %}
