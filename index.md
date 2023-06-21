@@ -106,7 +106,6 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 {% comment %}
 {% endcomment %}
-AUDIENCE
 The course is aimed at students, postdocs, and staff at the Woods Hole Oceanographic Institution.
 {% if site.carpentry == "swc" %}
 {% include swc/who.html %}
