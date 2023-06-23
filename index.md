@@ -386,6 +386,7 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 <h2>Slides</h2>
 * Welcome Slides
 * Introduction to <code>R</code> and RStudio (to be linked)
+* Data in R
 * Data wrangling & <code>dplyr</code> (to be linked)
 * Data frame reshaping with <code>tidyr</code> (to be linked)
 * Data visualization with <code>ggplot2</code> (to be linked)
