@@ -185,8 +185,7 @@ Modify the block below if there are any special requirements.
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
-<strong>Funding:</strong>
-<p>this workshop is supported by funding from WHOI APO and the DDVPSE June Fund for Technology Advancement</p>
+<p><strong>Funding:</strong> This workshop is supported by funding from WHOI APO and the DDVPSE June Fund for Technology Advancement</p>
 
 {% comment %}
 ACCESSIBILITY
