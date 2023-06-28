@@ -383,12 +383,10 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 <hr/>
 
 <h2>Slides</h2>
-* Welcome Slides
-* Introduction to <code>R</code> and RStudio (to be linked)
-* Data in R
+* [Welcome Slides](https://docs.google.com/presentation/d/13GKJV4xbtSS4NM1Knie_VG5Iq4JMYsoQTtx52qLAp6g/edit?usp=sharing)
+* [Introduction to <code>R</code> and RStudio](https://docs.google.com/presentation/d/1dsp6HY8l43pZH9nRxpKGUMP7ru9gG3h-q6hhVr8gKEU/edit?usp=drive_link)
+* [Data in R](https://docs.google.com/presentation/d/1b4X64B6P1_HYvSO0vd2QpRobjPyuGec-dErFG-MOeXk/edit?usp=drive_link)
 * Data wrangling & <code>dplyr</code> (to be linked)
-* Data frame reshaping with <code>tidyr</code> (to be linked)
-* Data visualization with <code>ggplot2</code> (to be linked)
 
 {% comment %}
 SETUP
